@@ -42,3 +42,4 @@ if __name__ == '__main__':
         qq(time.strftime("%Y年%m月%d日") + "\n自动打卡任务已完成", text)
     except requests.exceptions.ConnectionError:
         print("推送qq通知出错")
+{"name":"厦门理工学院","domain":"xmut","pinyin":"xiamenligongxueyuan"}
